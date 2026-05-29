@@ -1,0 +1,8 @@
+Task 3 — Challenge: Simple Unit Converter (~15 minutes)
+ℹ INFO	Objective: Apply arithmetic, type conversion, and f-strings to a real-world calculation.
+
+Create a file called task3_converter.py that acts as a unit converter. Your program must:
+31.	Ask the user which conversion they want: 1) km to miles, 2) kg to pounds, 3) Celsius to Fahrenheit.
+32.	Ask for the input value and convert it to a float.
+33.	Perform the correct calculation based on their choice.
+34.	Display the result formatted to 2 decimal places.

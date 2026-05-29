@@ -1,0 +1,11 @@
+Task 2 — Personal Profile Card (~15 minutes)
+ℹ INFO	Objective: Practice variable declaration, data types, f-strings, and user input.
+
+Create a file called task2_profile.py. Your program must:
+24.	Ask the user for their name using input().
+25.	Ask the user for their age using input() and convert it to an integer.
+26.	Ask the user for their favourite programming language using input().
+27.	Calculate and store the year they were born (use 2025 as the current year).
+28.	Create a list called skills with at least three skills (hardcoded is fine for now).
+29.	Create a dictionary called profile containing: name, age, birth_year, language, and skills.
+30.	Print a formatted profile card to the terminal using the data from the dictionary.
