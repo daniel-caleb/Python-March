@@ -1,0 +1,9 @@
+Task 1 — Hello World (Required, ~5 minutes)
+ℹ INFO	Objective: Confirm your environment is working and practice the print() function.
+
+Create a file called task1_hello.py with the following requirements:
+•	Print 'Hello, World!' on the first line.
+•	Print your own name on the second line using an f-string and a variable.
+•	Print the result of: 100 + 200 * 3 (note the operator precedence).
+•	Print the same result but add parentheses to force the addition first: (100 + 200) * 3.
+•	Print a message explaining the difference between the two results.
