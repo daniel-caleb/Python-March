@@ -1,4 +1,5 @@
-marks = 85
+marks = input("Enter your marks: ")
+marks = int(marks)  # Convert the input to an integer
 if marks >= 90:
     print("Grade: A")
 elif marks >= 80:
