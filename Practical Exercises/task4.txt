@@ -1,0 +1,14 @@
+Task 1: Even or Odd Checker
+
+Create a function called checkNumber() that accepts a number as input and displays whether the number is even or odd.
+
+Requirements
+Use a function.
+Use the modulus operator %.
+Use a comparison operator.
+Example
+checkNumber(8);
+
+Output:
+
+8 is Even
